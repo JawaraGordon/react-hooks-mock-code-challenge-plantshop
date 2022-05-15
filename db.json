@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cactus",
+      "image": "https://media.istockphoto.com/photos/cactus-picture-id123979928?k=20&m=123979928&s=612x612&w=0&h=ZfTxNK_NtlM8GfNVQ2S5vPboAClhRasfFydNCDe308k=",
+      "price": 16.99,
+      "id": 8
+    },
+    {
+      "name": "Venus Fly Trap",
+      "image": "https://i5.walmartimages.com/asr/151e534d-76cb-4c3c-983f-c4cc5062604f.58f8fe3b065fdcb1d892334e15994a37.jpeg",
+      "price": 18.7,
+      "id": 9
     }
   ]
 }
